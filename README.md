@@ -1,7 +1,7 @@
 <h1>Hi there 👋 </h1> 
 
 - Hi, I am Arjun, An Electronics Engineering student that loves programming <br>
-- I use rust and neovim btw (blazingly fast! 🚀) <br>
+- I use rust and neovim (btw) <br>
 - I've dipped my toes into game dev, cli apps and some frontend work (but am a backend developer at heart)
 
  if you want to get in touch, [email me](arjunpratap@gmail.com) and I'll get to you as soon as I can<br>
