@@ -4,9 +4,6 @@
 - I use rust and neovim (btw) <br>
 - I've dipped my toes into game dev, cli apps and some frontend work (but am a backend developer at heart)
 
- if you want to get in touch, [email me](arjunpratap@gmail.com) and I'll get to you as soon as I can<br>
-
-
 <!--
 <h3>Github Stats 🚀</h3>
 <a href="https://github.com/Govind-S-B/Govind-S-B">
